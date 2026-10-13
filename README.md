@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **madathiljibinmv@gmail.com** For Collaboration/Project or 
 - 👯 **I’m looking to collaborate on:**  Full-Stack Web Development, AI/ML applications, Open-Source Projects, and innovative software solutions.
 - 🤔 **I’m looking for help with:**  Improving my skills in System Design, Advanced DSA, AI/ML model development, and building scalable applications.
 - 💬 **Ask me about:**  Python, JavaScript, React, Node.js, Django, Git & GitHub, Linux, and Cybersecurity fundamentals.
-- 📫 **How to reach me:** madathiljibinmv@gmail.com
+- 📫 **How to reach me:** jibin-mv
 - 😄 **Pronouns:** Jibin
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
